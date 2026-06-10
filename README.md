@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Gouri Saxena<br><br>🎓 Information Technology undergraduate at VIT Bhopal (CGPA: 8.83/10)<br><br>💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Blockchain Technology.<br><br>🚀 I enjoy building innovative solutions that solve real-world problems and continuously improving my problem-solving skills through coding challenges.<br><br>🔭 Currently working on AI-powered applications and full-stack web development projects.<br><br>🌱 Exploring advanced concepts in Machine Learning, Blockchain, and Software Engineering.
+Hi there 👋, I'm Gouri Saxena<br><br>🎓 Information Technology undergraduate at VIT Bhopal (CGPA: 8.83/10)<br><br>💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Blockchain Technology.<br><br>🚀 I enjoy building innovative solutions that solve real-world problems and continuously improving my problem-solving skills through coding challenges.<br><br>🔭 Currently working on AI-powered applications and full-stack web development projects.<br><br>🌱 Exploring advanced concepts in Machine Learning, Blockchain, and Software Engineering. 
 
 
 ## 🌐 Socials:
